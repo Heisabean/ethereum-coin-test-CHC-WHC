@@ -1,5 +1,10 @@
 ## 📌 CHC & WHC Smart Contract - TEST VERSION
 
+<p align="center">
+  <img src="assets/CHC_logo.svg" alt="CHC Logo" width="150"/>
+  <img src="assets/WHC_logo.svg" alt="WHC Logo" width="150"/>
+</p>
+
 ### 1️⃣ Project Overview
 
 **ColdHouse Coin (CHC) ❄️** & **WarmHouse Coin (WHC) 🔥** are test blockchain tokens designed to explore a reward-based economy for good deeds and sustainable actions. In this implementation, the smart contract integrates both tokens with a unique reward system:
