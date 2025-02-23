@@ -193,4 +193,3 @@ contract KindActionRewardSystem {
         emit CHCUnlocked(msg.sender, chcToUnlock);
     }
 }
-
